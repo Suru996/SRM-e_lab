@@ -16,6 +16,6 @@ a = []
 for x in range(0,n):
   b = int(input())
   a.append(b)
-c = sel_sort(a,n):
-  print("Sorted Array")
-  print(*c)
+c = sel_sort(a,n)
+print("Sorted Array")
+print(*c)
